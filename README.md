@@ -35,7 +35,7 @@ html-gallery/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/html-gallery.git
+gh repo clone Vikashsingh845274/Gallery
 ```
 
 2. Navigate to the project directory:
